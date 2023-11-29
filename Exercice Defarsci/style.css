@@ -1,0 +1,514 @@
+*{
+    margin: 0;
+}
+.body{
+    background-color: black;
+    font-size: 1em;
+
+}
+.block1{
+    background-color: rgba(20,90,120,255);
+    display: flex;
+    flex-direction: row;
+    gap: 1em;
+    padding:30px 30px 30px 30px ;
+    border-radius: 20px;
+    font-size: 5em;
+    margin-left: 9em;
+}   
+
+
+header{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    background-color: white;
+    box-shadow: 2PX 2px 10px;
+    padding-bottom: 2%;
+    padding-top: 2%;
+    margin-left: 2em;
+    overflow: hidden;
+}
+.lien1{
+    display: flex;
+    flex-direction: row;
+    width: 340em;
+    height: 20em;
+    align-items: center;
+    justify-content: space-between;
+}
+
+
+a{
+    text-decoration: none;
+    color: white;
+}
+.compte{
+    gap: 400px;
+    display: flex;
+    flex-direction: row;
+    margin-right: 2em;
+    font-size: 5em;
+
+}
+.color1{
+    color:rgba(20,90,120,255) ;
+}
+.color2{
+    color: rgba(20,90,120,255);
+}
+.parba1{
+    width: 350px;
+    height: 140px;
+    padding-left: 200px;
+}
+
+p{
+    font-size: 40px;
+}
+.text3{
+   padding-left: 12%; 
+}
+.contenu{
+font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+padding-top: 100px;
+}
+.image1{
+width: 90em;
+height: 90em;
+
+
+}
+
+.corp{
+    display: flex;
+    flex-direction:column;
+    
+}
+.minicorp{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    max-width: 1000px;
+
+    margin: auto;
+    padding-right:220em ;
+    padding-top: 18em;
+    padding-bottom: 25sem;
+}
+.logoparba{
+
+    width: 800px;
+    height: 340px;
+    margin-right: 120em;
+}
+.lien2{
+    padding-top: 25em;
+    padding-bottom: 20em;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    gap: 500px;
+}
+.Commencer{
+    background-color:rgba(20,90,120,255);
+    border:solid 1px ;
+    border-radius: 20px;
+    text-align: center;
+    font-size: 7em;
+    padding: 60px;
+}
+
+
+.monreseaux{
+    background-color:white;
+    border:solid 10px;
+    border-radius: 30px;
+    padding: 80px;
+    padding-right: 140px;
+    padding-top: 38px;
+    padding-bottom: 40px;
+    gap: 30px;
+    font-size: 5em;
+    display: flex;
+    align-items: center;
+    color:rgba(20,90,120,255)
+}
+.asistante{
+    font-size: 7em;
+    margin-right: 1080px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.ecriture{
+    font-size: 6em;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.parba2{
+    display: flex;
+    flex-direction: row;
+}
+.contenu3 {
+display: flex;
+flex-direction: column;
+}
+.parba3{
+padding-left: 30%
+
+
+}
+
+.ecrit3{
+    font-size: 90px;
+    width: 70%;
+    padding-left:14%; 
+    padding-top:1% ;
+}
+.parba4{
+    display: flex;
+    color: aliceblue;
+    font-size: 1200%;
+    padding-left: 24%;
+}
+.ecrity{
+    font-size: 90px;
+    width: 70%;
+    color:aliceblue;
+
+}
+.contenu3{
+    background-color: rgba(20,90,120,255);
+margin-top: 4%;
+padding-top: 3%;
+color: aliceblue;
+padding-bottom: 5%;
+
+}
+.partenaire{
+    font-size: 200px;
+    width: 50%;
+    padding-left: 2144px; 
+    color: rgba(20,90,120,255);
+}
+.object{
+background-color:rgba(20,90,120,255);
+font-size: 25PX;
+border-radius: 30px;
+flex-direction: center;
+display: flex;
+width: 16%;
+margin-left: 44%;
+margin-top: 2%;
+margin-bottom: 2%;
+
+}
+
+img{
+    width:  300px;
+    height: 100px;
+}
+
+.conteneur-image{
+display: flex;
+flex-direction: row;
+justify-content: center;    
+background-color:rgb(114, 239, 239);
+gap: 8%;
+padding-top: 400px;
+padding-bottom: 400px;
+padding-left: 3%;
+padding-right: 3%;
+margin-left: 24%;
+margin-right: 20%;
+margin-top: 3%;
+}
+.logo2{
+    width: 500px;
+    height: auto   ;
+}
+.logo1{
+    width: 500px;
+    height: auto   ;
+}
+
+.logo3{
+    width: 500px;
+    height: auto   ;
+}
+.confiance{
+    font-size: 200px;
+    color: rgba(20,90,120,255);
+    text-align: center;
+    padding: 1% 0 0 0;
+    margin: 0 0 0 4%;
+    
+}
+
+.material-symbols-outlined{
+    font-size: 100px ;
+    margin-top: 20px;
+    
+}
+.section-confiance{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    width:56% ;
+    gap: 12%;
+    padding-bottom: 70em;
+    height: auto;
+    padding-top: 3%;
+    margin-left: 24%;
+    margin-right: 20%;
+}
+.adams-smith{
+font-size: 80px;
+padding-left: 22%;
+}
+.general-manager{
+font-size: 60px;
+padding-left: 22%;
+margin-bottom: 5%;
+}
+
+.juliette-faye{
+    font-size: 80px;
+padding-left: 22%;
+}
+.self-care{
+    font-size: 60px;
+    padding-left: 30%;
+    margin-bottom: 5%;
+}
+.img-adams{
+    width:500px;
+    height:400px;
+    position: absolute;
+    margin-right: 90em;
+    margin-bottom: 20em;
+    z-index: 1;
+}
+.img-juliette{
+    width: 500px;
+    height: 400px;
+    position: absolute;
+    z-index: 1;
+    margin-left: 107em;
+
+}
+body,p {
+    margin: 0px;
+}
+.general-contenu-adams{
+    border: solid rgb(114, 239, 239) 8px ;
+    display: flex;
+    width: 900px;
+    height: 800px;
+    position: absolute;
+    z-index: 0;
+    padding-top: 300px;
+    padding-left: 100px;
+    padding-bottom: 100px;
+    justify-content: center;
+    flex-direction: column;
+
+}
+.general-contenu-juliette{
+    border: solid rgb(114, 239, 239) 8px ;
+    width: 900px;
+    height: 800px;
+    position: absolute;
+    z-index: 0; 
+    padding-top: 300px;
+    padding-left: 100px;
+    padding-bottom: 100px;
+}
+
+.Adams{
+width: 30%;
+padding: 5%;
+}
+.contenu-adams{
+    font-size: 400%;
+   z-index: 2;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.contenu-juliette{
+    font-size: 400%;
+   
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.juliette{
+width: 30%;
+padding: 5%;
+}
+.contact{
+    font-size: 200px;
+    color: rgba(20,90,120,255);
+    display: flex;
+    justify-content: center;
+    padding-left: 245px;
+    color: rgba(20,90,120,255) ;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-bottom: 1em;
+}
+.ligne{
+    margin-left:45%;
+    margin-top: 4%;
+    margin-bottom: 2%;
+    border-radius: 30px;
+    width: 15%;
+    height: 40px;
+    background-color:  rgba(20,90,120,255);
+
+}
+.body{
+    margin:0;
+    padding:0;
+}
+.section-contact{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    width: 70%;
+    height: auto;
+    border: solid;
+    background-color:rgba(20,90,120,255) ;
+    margin-left: 17%;
+   margin-top: 2%;
+   padding-left: 5%;
+   padding-top: 2%;
+}
+.section-contact-principal{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    border: solid;
+}
+.Nom-complet {
+     font-size: 100px;
+     color: white;
+     padding:2% 0 0 2%
+
+}
+.Structure{
+    font-size: 100px;
+    color: white;
+    padding:2% 0 0 2%
+}
+.Adress-mail{
+    font-size: 100px;
+    color: white;
+    padding:2% 0 0 2%
+}
+.Message{
+    font-size: 100px;
+    color: white;
+    padding:2% 0 0 2%
+}
+.page-vide-1{
+    width: 100%;
+    background-color: white;
+    height: 200%;
+}
+
+.section-formulaire{
+
+  
+}
+.formulaire{
+border: solid;
+
+}
+form{
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    font-size: 100px;
+    width: 30em;
+    padding: 2em;
+    background-color: rgba(20,90,120,255);
+    color: white;
+    margin-left: 11em;
+
+}
+
+input{
+    font-size: 200px;
+    padding-right: 100px;
+    border:solid 1PX black;
+}
+.textarea {
+    font-size: 200px;
+    padding-right: 100px;
+    border:solid 1PX black;
+}
+.section-formulaire{
+padding-bottom: 10em;
+}
+.sous-page{
+    background-color: black;
+    color: aliceblue;
+    font-size: 200px;
+    display: flex;
+    flex-direction: row;
+}
+.Parba{
+font-size: 80px;
+padding: 80px;
+width: 20EM;
+MARGIN-right: 6em;
+
+}
+.A-propos{
+font-size: 90px;
+padding: 80px;
+width: 20EM;
+
+;
+
+}
+.block2{
+    background-color: white;
+    height: 400px;
+    display: flex;
+    border: white 10px ;
+    flex-direction: column;
+    margin-top: 250PX;
+    font-size: 2px;
+    border-radius: 2px;
+    padding:10px;
+}
+.block3{
+    font-size: 2px;
+    border-radius: 2px;
+    background-color: white;
+    border: white 10PX ;
+    width: 500px;
+    padding:10px;
+    display: flex;
+    flex-direction: row;
+    margin-top: 200EM;
+    margin-left:1100em;
+  
+}
+.fin{
+padding: 10em;
+background-color: black;
+} 
+.Parbaw{
+ padding-bottom: 1em;
+
+}
+.A-propos2{
+    padding-bottom: 1em;
+}
+.blocke{
+    display: flex; 
+    gap: 5EM;
+}
+.coopy{
+    font-size: 60PX;
+    color: white;
+    text-align: center;
+    margin: 100px;
